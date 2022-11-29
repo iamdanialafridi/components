@@ -1,0 +1,21 @@
+.bar{
+    width: 25% !important;
+}
+.bar2{
+    width: 90% !important;
+    
+}
+.bar3{
+    width: 65% !important;
+    
+}
+.bar4{
+    width: 65% !important;
+    
+}
+.footer {
+    background: url(../../public/assets/images/footer/bg.png) !important;
+}
+.banner {
+    background-image: url(../../public/assets/images/banner/bg.png);
+}
